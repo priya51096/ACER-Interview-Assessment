@@ -1,0 +1,18 @@
+So the task is:
+
+1. Create a shiny application that provides a user interface to select an excel file (or csv file if excel is too complicated)  on a user computer and display the content of the file (it is a table data) on the same page. 
+
+2. No data validation is required.
+
+3. The UI page is to be organised so that the interface for selecting the file is on the left side of the page and the file content display occupies the rest of the page.
+ 
+4. The file to be imported is attached.
+ 
+Please use as much google help as you want but the task should be performed by you with no help from any other person.
+
+
+Notes:
+
+1. Could you please perform a little programming task for us, so that we can see how you cope with an unknown.
+ 
+2. Could you please write a shiny application that provides a user interface for import on an excel file and display its content on the page?
